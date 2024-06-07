@@ -1,4 +1,4 @@
-# Armaghan
+# Armghan
 # Hi there 👋
 
 I'm [Armghan], a software developer passionate about creating awesome projects!
